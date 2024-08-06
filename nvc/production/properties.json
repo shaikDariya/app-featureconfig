@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "search": {
+    "filterFacets": {
+      "hideFilterFacets": ["accessories"]
+    },
+    "sortListing": {
+      "sortingOrder": ["OPT1", "OPT2"],
+      "hideSortingOptions": ["OPT3"]
+    }
+  }
+}
